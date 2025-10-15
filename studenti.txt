@@ -1,0 +1,5 @@
+Ana             Dodig           78
+Marko           Peric           65      
+Ivana           Ticinovic       92      
+Petar           Zadro           55      
+Lucija          Soldo           88      
