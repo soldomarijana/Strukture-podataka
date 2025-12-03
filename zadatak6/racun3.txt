@@ -1,0 +1,5 @@
+2025-03-20
+ananas 1 2.60
+jabuka 3 1.10
+kivi 4 1.05
+kruska 2 1.40

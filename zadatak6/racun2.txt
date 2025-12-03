@@ -1,0 +1,5 @@
+2025-02-03
+jabuka 4 1.00
+kruh 2 0.80
+mlijeko 1 1.20
+banana 5 0.50
