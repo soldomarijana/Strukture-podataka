@@ -1,0 +1,4 @@
+Rim, 2860000
+Milano, 1300000
+Torino, 850000
+Firenca, 373446

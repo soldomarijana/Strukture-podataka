@@ -1,0 +1,4 @@
+Berlin, 3664088
+Munchen, 1512000
+Hamburg, 1840000
+Koln, 1085664
