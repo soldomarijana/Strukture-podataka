@@ -31,12 +31,9 @@ int readCountriesFromFile(CountryPosition head);
 CountryPosition insertCountrySorted(CountryPosition head, char countryName[], char fileName[]);
 int readCitiesFromFile(CityPosition* root, char fileName[]);
 CityPosition insertCity(CityPosition root, char cityName[], int population);
-
 int printCountries(CountryPosition head);
 int printCityTree(CityPosition root);
-
 int searchCityTree(CityPosition root, int limit);
-
 int deleteCityTree(CityPosition root);
 int deleteCountryList(CountryPosition head);
 
